@@ -1,7 +1,7 @@
 <h1 style="text-align:center; color:red;">Flush Web Template</h1>
 
-![](https://raw.githubusercontent.com/FullHouse-Team/Flush-web-template/master/image-branding/template-home-page.png)
----
+![](https://raw.githubusercontent.com/FullHouse-Team/Flush-web-template/master/image-branding/README.png1.png)
+<hr></hr>
 
 <p style="font-size:17px;">We are very pleased that after our initial efforts, we have successfully completed our team's first repository, and we hope you enjoy the results of our work.
 
@@ -58,8 +58,26 @@ The team members who contributed to this repository are:
   padding: 8px;">20%</td>
     </tr>
 </table>
----
+<hr></hr>
+
+<h2>Web Template pictures</h2>
+<img src="https://raw.githubusercontent.com/FullHouse-Team/Flush-web-template/master/image-branding/template-home-page.png" alt="cant lode...">
+<hr></hr>
+<img src="https://raw.githubusercontent.com/FullHouse-Team/Flush-web-template/master/image-branding/template-team-page.png" alt="cant lode...">
+<hr></hr>
+<img src="https://raw.githubusercontent.com/FullHouse-Team/Flush-web-template/master/image-branding/template-about-page.png" alt="cant lode...">
+<h2 style="color:rgb(0,100,0);">FullHouse Team</h2>
+<hr></hr>
+
+<h2>Full house team</h2>
+<img src="https://raw.githubusercontent.com/FullHouse-Team/Flush-web-template/master/img/logo.png" alt="sorry can lode...">
+
+<p style="font-size:20px;">Click button to Contact Us:</p>
 
 
+   <a href= "mailto: fullhousteam@gmail.com" style='color:rgb(0,100,0);'> 
+    Full House team 
+   </a>
 
+<hr><h1>
 

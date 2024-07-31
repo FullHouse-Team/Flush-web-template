@@ -75,17 +75,8 @@ The team members who contributed to this repository are:
 <p style="font-size:20px;">Click button to Contact Us:</p>
 
 
-   <a href= "mailto: fullhousteam@gmail.com"> 
-     <button style:  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer;> Full House team </button>
+   <a href= "mailto: fullhousteam@gmail.com" style='color:rgb(0,100,0);'> 
+    Full House team 
    </a>
 
 <hr><h1>
