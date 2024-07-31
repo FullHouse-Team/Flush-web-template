@@ -66,5 +66,5 @@ The team members who contributed to this repository are:
      <button> Full House team </button>
    </a>
 
-<h><>
+<hr><h1>
 
