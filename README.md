@@ -1,7 +1,7 @@
 <h1 style="text-align:center; color:red;">Flush Web Template</h1>
 
-![](https://raw.githubusercontent.com/FullHouse-Team/Flush-web-template/master/image-branding/template-home-page.png)
----
+![](https://raw.githubusercontent.com/FullHouse-Team/Flush-web-template/master/image-branding/README.png1.png)
+<hr></hr>
 
 <p style="font-size:17px;">We are very pleased that after our initial efforts, we have successfully completed our team's first repository, and we hope you enjoy the results of our work.
 
@@ -58,10 +58,46 @@ The team members who contributed to this repository are:
   padding: 8px;">20%</td>
     </tr>
 </table>
----
+<hr></hr>
 
+<h2>Web Template pictures</h2>
+<img src="https://raw.githubusercontent.com/FullHouse-Team/Flush-web-template/master/image-branding/template-home-page.png" alt="cant lode...">
+<hr></hr>
+<img src="https://raw.githubusercontent.com/FullHouse-Team/Flush-web-template/master/image-branding/template-team-page.png" alt="cant lode...">
+<hr></hr>
+<img src="https://raw.githubusercontent.com/FullHouse-Team/Flush-web-template/master/image-branding/template-about-page.png" alt="cant lode...">
 <h2 style="color:rgb(0,100,0);">FullHouse Team</h2>
+<hr></hr>
+
+
+<img src="https://raw.githubusercontent.com/FullHouse-Team/Flush-web-template/master/img/logo.png" alt="sorry can lode...">
+
 <p>Contact Us:</p>
+<style>
+    .button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+    .button {
+  background-color: white;
+  color: black;
+  border: 2px solid #008CBA;
+}
+
+.button:hover {
+  background-color: rgb(0,100,0);
+  color: white;
+}
+</style>
+
    <a href= "mailto: fullhousteam@gmail.com"> 
      <button> Full House team </button>
    </a>
