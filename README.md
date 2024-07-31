@@ -69,13 +69,14 @@ The team members who contributed to this repository are:
 <h2 style="color:rgb(0,100,0);">FullHouse Team</h2>
 <hr></hr>
 
-
+<h2>Full house team</h2>
 <img src="https://raw.githubusercontent.com/FullHouse-Team/Flush-web-template/master/img/logo.png" alt="sorry can lode...">
 
-<p>Contact Us:</p>
-<style>
-    .button {
-  border: none;
+<p style="font-size:20px;">Contact Us:</p>
+
+
+   <a href= "mailto: fullhousteam@gmail.com"> 
+     <button style:  border: none;
   color: white;
   padding: 16px 32px;
   text-align: center;
@@ -84,22 +85,7 @@ The team members who contributed to this repository are:
   font-size: 16px;
   margin: 4px 2px;
   transition-duration: 0.4s;
-  cursor: pointer;
-}
-    .button {
-  background-color: white;
-  color: black;
-  border: 2px solid #008CBA;
-}
-
-.button:hover {
-  background-color: rgb(0,100,0);
-  color: white;
-}
-</style>
-
-   <a href= "mailto: fullhousteam@gmail.com"> 
-     <button> Full House team </button>
+  cursor: pointer;;> Full House team </button>
    </a>
 
 <hr><h1>
