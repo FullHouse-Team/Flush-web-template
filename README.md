@@ -72,7 +72,7 @@ The team members who contributed to this repository are:
 <h2>Full house team</h2>
 <img src="https://raw.githubusercontent.com/FullHouse-Team/Flush-web-template/master/img/logo.png" alt="sorry can lode...">
 
-<p style="font-size:20px;">Contact Us:</p>
+<p style="font-size:20px;">Click button to Contact Us:</p>
 
 
    <a href= "mailto: fullhousteam@gmail.com"> 
@@ -85,7 +85,7 @@ The team members who contributed to this repository are:
   font-size: 16px;
   margin: 4px 2px;
   transition-duration: 0.4s;
-  cursor: pointer;;> Full House team </button>
+  cursor: pointer;> Full House team </button>
    </a>
 
 <hr><h1>
