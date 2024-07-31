@@ -21,6 +21,12 @@ body{
 header img{
   width: 70px;
 }
+#team{
+  margin-left: 250px;
+}
+#team-rows{
+  margin-bottom: 15px;
+}
 /* swiper starts */
     .prevH1{
         margin-left: 50px;
