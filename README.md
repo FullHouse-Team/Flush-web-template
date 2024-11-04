@@ -1,6 +1,6 @@
 <h1 style="text-align:center; color:red;">Flush Web Template</h1>
 
-![](https://raw.githubusercontent.com/FullHouse-Team/Flush-web-template/master/image-branding/README.png1.png)
+![](https://raw.githubusercontent.com/FullHouse-Team/Flush-web-template/refs/heads/master/image-branding/logo.flush.temp.png1.png)
 <hr></hr>
 
 <p style="font-size:17px;">We are very pleased that after our initial efforts, we have successfully completed our team's first repository, and we hope you enjoy the results of our work.
